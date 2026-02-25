@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Compro2_Project/1.0.0": {
+        "runtime": {
+          "Compro2_Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Compro2_Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

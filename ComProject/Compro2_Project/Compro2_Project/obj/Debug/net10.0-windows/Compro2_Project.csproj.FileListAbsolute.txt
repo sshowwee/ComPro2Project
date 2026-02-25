@@ -1,0 +1,17 @@
+D:\Github\ComPro2Project\ComProject\Compro2_Project\Compro2_Project\bin\Debug\net10.0-windows\Compro2_Project.exe
+D:\Github\ComPro2Project\ComProject\Compro2_Project\Compro2_Project\bin\Debug\net10.0-windows\Compro2_Project.deps.json
+D:\Github\ComPro2Project\ComProject\Compro2_Project\Compro2_Project\bin\Debug\net10.0-windows\Compro2_Project.runtimeconfig.json
+D:\Github\ComPro2Project\ComProject\Compro2_Project\Compro2_Project\bin\Debug\net10.0-windows\Compro2_Project.dll
+D:\Github\ComPro2Project\ComProject\Compro2_Project\Compro2_Project\bin\Debug\net10.0-windows\Compro2_Project.pdb
+D:\Github\ComPro2Project\ComProject\Compro2_Project\Compro2_Project\obj\Debug\net10.0-windows\Compro2_Project.Form1.resources
+D:\Github\ComPro2Project\ComProject\Compro2_Project\Compro2_Project\obj\Debug\net10.0-windows\Compro2_Project.csproj.GenerateResource.cache
+D:\Github\ComPro2Project\ComProject\Compro2_Project\Compro2_Project\obj\Debug\net10.0-windows\Compro2_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\ComPro2Project\ComProject\Compro2_Project\Compro2_Project\obj\Debug\net10.0-windows\Compro2_Project.AssemblyInfoInputs.cache
+D:\Github\ComPro2Project\ComProject\Compro2_Project\Compro2_Project\obj\Debug\net10.0-windows\Compro2_Project.AssemblyInfo.cs
+D:\Github\ComPro2Project\ComProject\Compro2_Project\Compro2_Project\obj\Debug\net10.0-windows\Compro2_Project.csproj.CoreCompileInputs.cache
+D:\Github\ComPro2Project\ComProject\Compro2_Project\Compro2_Project\obj\Debug\net10.0-windows\Compro2_Project.sourcelink.json
+D:\Github\ComPro2Project\ComProject\Compro2_Project\Compro2_Project\obj\Debug\net10.0-windows\Compro2_Project.dll
+D:\Github\ComPro2Project\ComProject\Compro2_Project\Compro2_Project\obj\Debug\net10.0-windows\refint\Compro2_Project.dll
+D:\Github\ComPro2Project\ComProject\Compro2_Project\Compro2_Project\obj\Debug\net10.0-windows\Compro2_Project.pdb
+D:\Github\ComPro2Project\ComProject\Compro2_Project\Compro2_Project\obj\Debug\net10.0-windows\Compro2_Project.genruntimeconfig.cache
+D:\Github\ComPro2Project\ComProject\Compro2_Project\Compro2_Project\obj\Debug\net10.0-windows\ref\Compro2_Project.dll

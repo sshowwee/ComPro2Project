@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Github\\ComProject\\Compro2_Project\\",
+  "WorkspaceRootPath": "D:\\Github\\ComPro2Project\\ComProject\\Compro2_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3D97325-A9CB-0944-80AE-8905C865F9D3}|Compro2_Project\\Compro2_Project.csproj|d:\\github\\comproject\\compro2_project\\compro2_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C3D97325-A9CB-0944-80AE-8905C865F9D3}|Compro2_Project\\Compro2_Project.csproj|d:\\github\\compro2project\\comproject\\compro2_project\\compro2_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C3D97325-A9CB-0944-80AE-8905C865F9D3}|Compro2_Project\\Compro2_Project.csproj|solutionrelative:compro2_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D97325-A9CB-0944-80AE-8905C865F9D3}|Compro2_Project\\Compro2_Project.csproj|d:\\github\\compro2project\\comproject\\compro2_project\\compro2_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D97325-A9CB-0944-80AE-8905C865F9D3}|Compro2_Project\\Compro2_Project.csproj|solutionrelative:compro2_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D97325-A9CB-0944-80AE-8905C865F9D3}|Compro2_Project\\Compro2_Project.csproj|d:\\github\\compro2project\\comproject\\compro2_project\\compro2_project\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D97325-A9CB-0944-80AE-8905C865F9D3}|Compro2_Project\\Compro2_Project.csproj|solutionrelative:compro2_project\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,15 +22,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Github\\ComPro2Project\\ComProject\\Compro2_Project\\Compro2_Project\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Compro2_Project\\Form1.Designer.cs",
+              "ToolTip": "D:\\Github\\ComPro2Project\\ComProject\\Compro2_Project\\Compro2_Project\\Form1.Designer.cs",
+              "RelativeToolTip": "Compro2_Project\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:59:34.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\ComPro2Project\\ComProject\\Compro2_Project\\Compro2_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Compro2_Project\\Program.cs",
+              "ToolTip": "D:\\Github\\ComPro2Project\\ComProject\\Compro2_Project\\Compro2_Project\\Program.cs",
+              "RelativeToolTip": "Compro2_Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:59:27.59Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Github\\ComProject\\Compro2_Project\\Compro2_Project\\Form1.cs",
+              "DocumentMoniker": "D:\\Github\\ComPro2Project\\ComProject\\Compro2_Project\\Compro2_Project\\Form1.cs",
               "RelativeDocumentMoniker": "Compro2_Project\\Form1.cs",
-              "ToolTip": "D:\\Github\\ComProject\\Compro2_Project\\Compro2_Project\\Form1.cs [Design]",
+              "ToolTip": "D:\\Github\\ComPro2Project\\ComProject\\Compro2_Project\\Compro2_Project\\Form1.cs [Design]",
               "RelativeToolTip": "Compro2_Project\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T12:36:38.705Z",
