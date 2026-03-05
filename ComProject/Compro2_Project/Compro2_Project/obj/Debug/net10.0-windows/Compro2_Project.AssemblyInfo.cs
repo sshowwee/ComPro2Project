@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Compro2_Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f15fc831ffca75c7b7c34c53cb348ffb64577471")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe83011a32647505c40bd3b0aebefa55a795d3d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Compro2_Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Compro2_Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,6 +8,7 @@ namespace Compro2_Project
         // --- ตัวแปรระบบเลือดและคะแนน ---
         int playerHP = 5;
         int score = 0;
+        float gameEndTime;
 
         // --- ตัวแปรจำนวนมอนที่ตีตาย ---
         int slimeKills = 0; // นับจำนวนสไลม์ที่ตีตาย
