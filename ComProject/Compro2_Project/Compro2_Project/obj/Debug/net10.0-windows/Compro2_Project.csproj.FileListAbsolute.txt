@@ -15,3 +15,7 @@ D:\Github\ComPro2Project\ComProject\Compro2_Project\Compro2_Project\obj\Debug\ne
 D:\Github\ComPro2Project\ComProject\Compro2_Project\Compro2_Project\obj\Debug\net10.0-windows\Compro2_Project.pdb
 D:\Github\ComPro2Project\ComProject\Compro2_Project\Compro2_Project\obj\Debug\net10.0-windows\Compro2_Project.genruntimeconfig.cache
 D:\Github\ComPro2Project\ComProject\Compro2_Project\Compro2_Project\obj\Debug\net10.0-windows\ref\Compro2_Project.dll
+D:\Github\ComPro2Project\ComProject\Compro2_Project\Compro2_Project\bin\Debug\net10.0-windows\map.txt
+D:\Github\ComPro2Project\ComProject\Compro2_Project\Compro2_Project\bin\Debug\net10.0-windows\slime.png
+D:\Github\ComPro2Project\ComProject\Compro2_Project\Compro2_Project\bin\Debug\net10.0-windows\bat.png
+D:\Github\ComPro2Project\ComProject\Compro2_Project\Compro2_Project\bin\Debug\net10.0-windows\idle.png
